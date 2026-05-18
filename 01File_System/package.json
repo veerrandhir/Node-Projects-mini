@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "color": "^5.0.3",
+    "express": "^5.2.1",
+    "node": "^22.22.3",
+    "nodemon": "^3.1.14"
+  },
+  "name": "01file_system",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": " node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
